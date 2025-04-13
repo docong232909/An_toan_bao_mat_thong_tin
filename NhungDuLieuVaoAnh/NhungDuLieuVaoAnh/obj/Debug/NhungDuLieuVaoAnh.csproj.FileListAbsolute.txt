@@ -1,0 +1,10 @@
+D:\Users\thanh\Nhung_Du_Lieu_Vao_Anh\NhungDuLieuVaoAnh\NhungDuLieuVaoAnh\bin\Debug\NhungDuLieuVaoAnh.exe.config
+D:\Users\thanh\Nhung_Du_Lieu_Vao_Anh\NhungDuLieuVaoAnh\NhungDuLieuVaoAnh\bin\Debug\NhungDuLieuVaoAnh.exe
+D:\Users\thanh\Nhung_Du_Lieu_Vao_Anh\NhungDuLieuVaoAnh\NhungDuLieuVaoAnh\bin\Debug\NhungDuLieuVaoAnh.pdb
+D:\Users\thanh\Nhung_Du_Lieu_Vao_Anh\NhungDuLieuVaoAnh\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.csproj.AssemblyReference.cache
+D:\Users\thanh\Nhung_Du_Lieu_Vao_Anh\NhungDuLieuVaoAnh\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.Form1.resources
+D:\Users\thanh\Nhung_Du_Lieu_Vao_Anh\NhungDuLieuVaoAnh\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.Properties.Resources.resources
+D:\Users\thanh\Nhung_Du_Lieu_Vao_Anh\NhungDuLieuVaoAnh\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.csproj.GenerateResource.cache
+D:\Users\thanh\Nhung_Du_Lieu_Vao_Anh\NhungDuLieuVaoAnh\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.csproj.CoreCompileInputs.cache
+D:\Users\thanh\Nhung_Du_Lieu_Vao_Anh\NhungDuLieuVaoAnh\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.exe
+D:\Users\thanh\Nhung_Du_Lieu_Vao_Anh\NhungDuLieuVaoAnh\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.pdb
